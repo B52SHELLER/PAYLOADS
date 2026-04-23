@@ -195,10 +195,12 @@
         <error-code>410</error-code>
         <location>/carbon/errors/error_410.html</location>
     </error-page>
+ <!-- 
     <error-page>
         <error-code>500</error-code>
         <location>/carbon/errors/error_500.html</location>
     </error-page>
+ -->
     <error-page>
         <error-code>502</error-code>
         <location>/carbon/errors/error_502.html</location>
